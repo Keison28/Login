@@ -1,0 +1,35 @@
+.drop{
+  position: relative;
+  left: 1150px;
+  margin-top: -45px;
+}
+
+.arriba{
+  background-color: darkcyan;
+}
+
+.fomu {
+  margin-top: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-large;
+  margin-left: 34%;
+  
+}
+
+.pp{
+  background-color: darkcyan;
+}
+
+.aa {
+  background-color: rgb(11, 117, 117);
+  border-radius: 100px;
+  
+}
+
+
+.aa:hover {
+  background-color: rgb(24, 173, 98);
+  color: aqua;
+  padding-left: 20px;
+  border-radius: 100px;
+}

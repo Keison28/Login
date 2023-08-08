@@ -1,0 +1,169 @@
+
+body{
+    background-color: #7bffa76c;
+    background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed
+}
+
+form{
+
+    width: 450px;
+    background: #d5eaff;
+    padding: 20px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(236, 98, 63);
+    border: 40px #ffffff;
+    
+}
+
+form h1 {
+
+    font-size: 30px;
+    margin-bottom: 35px;
+    text-align: center;
+    
+
+}
+
+form h4 {
+
+    font-size: 15px;
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+
+.texto{
+
+    position: relative;
+    width: 50%;
+    background: #24303c;
+    padding-left: 10px;
+    margin-left: 50px;
+    border: 2px solid white;
+    font-size: 15px;
+    color: white;
+    height: 40px;
+    padding-right: 60px;
+    padding-left: 60px;
+   
+
+}
+.clave{
+    position: relative;
+    width: 50%;
+    background: #24303c;
+    padding-left: 10px;
+    margin-left: 50px;
+    border: 2px solid white;
+    font-size: 15px;
+    color: white;
+    height: 40px;
+    padding-right: 60px;
+    padding-left: 60px; 
+}
+
+.logos{
+    margin-left: 20px;
+}
+
+.decorarboton{
+
+    width: 70%;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    background-color: #cdff8c;
+    padding: 1px;
+    line-height: 30px;
+    margin-left: 15%;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+.decorarboton:hover{
+
+
+    background-color: #ff7373;
+    
+}
+.linkmaster{
+    text-align: center ;
+    font-size: 20px;
+    margin-top: 20px;
+    
+}
+.link{
+    
+    color: rgb(0, 137, 201);
+    
+}
+
+.fa-square-envelope{
+    position: absolute;
+    font-size: 30px;
+    margin-left: 60px;
+    margin-top: 8px;
+    z-index: 100;
+    margin-top: 8px;
+}
+.fa-user{
+    position: absolute;
+    font-size: 30px;
+    margin-left: 60px;
+    z-index: 100;
+    margin-top: 8px;
+}
+.fa-lock{
+    position: absolute;
+    font-size: 30px;
+    margin-left: 60px;
+    z-index: 100;
+    margin-top: 8px;
+}
+.fa-eye {
+
+    color: red;
+    position: absolute;
+    right: 80px;
+    top: 15px;
+    font-size: 20px;
+    
+
+}
+.fa-eye-slash{
+    color: rgb(113, 255, 161);
+    position: absolute;
+    right: 80px;
+    top: 15px;
+}
+#espacio-ojo{
+    position: relative;
+}
+
+.ojo2 {
+
+    color: red;
+    position: absolute;
+    right: 80px;
+    top: 15px;
+    
+
+}
+#espacio-ojo-2{
+    position: relative;
+   
+}
+#mensaje_seguridad{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;    
+    
+    
+}
+
+
